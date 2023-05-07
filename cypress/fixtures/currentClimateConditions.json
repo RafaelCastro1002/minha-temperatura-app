@@ -1,0 +1,14 @@
+{
+  "weatherIconId": 1,
+  "weatherText": "Parcialmente nublado",
+  "hasPrecipitation": false,
+  "isDayTime": false,
+  "currentTemperature": 27,
+  "realFeelTemperature": 32,
+  "relativeHumidity": 50,
+  "wind": 10,
+  "uvIndexText": "Moderado",
+  "temperatureUnit": "C",
+  "speedUnit": "km/h",
+  "dateTime": "2023-05-07T00:15:51.911Z"
+}

@@ -1,0 +1,162 @@
+{
+  "Headline": {
+    "EffectiveDate": "2023-05-07T13:00:00-04:00",
+    "EffectiveEpochDate": 1683478800,
+    "Severity": 5,
+    "Text": "Risco de desidratação e insolação em caso de atividades físicas intensas nesta tarde",
+    "Category": "heat",
+    "EndDate": "2023-05-07T19:00:00-04:00",
+    "EndEpochDate": 1683500400,
+    "MobileLink": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?unit=c&lang=pt-br",
+    "Link": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?unit=c&lang=pt-br"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2023-05-07T07:00:00-04:00",
+      "EpochDate": 1683457200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 28.2,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 31.4,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Predominantemente nublado",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Predominantemente nublado",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=1&unit=c&lang=pt-br",
+      "Link": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=1&unit=c&lang=pt-br"
+    },
+    {
+      "Date": "2023-05-08T07:00:00-04:00",
+      "EpochDate": 1683543600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 20.3,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 29.3,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 7,
+        "IconPhrase": "Nublado",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 12,
+        "IconPhrase": "Pancadas de chuva",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=2&unit=c&lang=pt-br",
+      "Link": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=2&unit=c&lang=pt-br"
+    },
+    {
+      "Date": "2023-05-09T07:00:00-04:00",
+      "EpochDate": 1683630000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 19.9,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 29.4,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Nuvens esparsas",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Parcialmente nublado",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=3&unit=c&lang=pt-br",
+      "Link": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=3&unit=c&lang=pt-br"
+    },
+    {
+      "Date": "2023-05-10T07:00:00-04:00",
+      "EpochDate": 1683716400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 18,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 28.5,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Nuvens esparsas",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Parcialmente nublado",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=4&unit=c&lang=pt-br",
+      "Link": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=4&unit=c&lang=pt-br"
+    },
+    {
+      "Date": "2023-05-11T07:00:00-04:00",
+      "EpochDate": 1683802800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 18.4,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 29.6,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 3,
+        "IconPhrase": "Parcialmente ensolarado",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 34,
+        "IconPhrase": "Predominantemente aberto",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=5&unit=c&lang=pt-br",
+      "Link": "http://www.accuweather.com/pt/br/aquidauana/38802/daily-weather-forecast/38802?day=5&unit=c&lang=pt-br"
+    }
+  ]
+}
