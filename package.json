@@ -27,7 +27,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "cy:open": "cypress open"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --component && cypress run --e2e"
   },
   "eslintConfig": {
     "extends": [
@@ -51,5 +52,6 @@
     "@types/axios": "^0.14.0",
     "cypress": "^12.8.1",
     "@types/styled-components": "^5.1.26"
-  }
+  },
+  "proxy": "http://localhost:3001"
 }
