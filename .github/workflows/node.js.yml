@@ -37,6 +37,9 @@ jobs:
           start: yarn start
         env:
           CI: false
+          REACT_APP_API_WEATHER_URL: https://express-api-proxy-example.vercel.app
+          REACT_APP_API_KEY_WEATHER: 9v7n5SUsjmhs4ZpmHw9lveA0cElmIiN9
+          REACT_APP_ACCESS_KEY_IMAGE_API: W4ZguEAZZKuP2ek_sqUb_vqV-6FvzSHvWKdyKSySXe8
 
 
       - name: Install Vercel CLI
