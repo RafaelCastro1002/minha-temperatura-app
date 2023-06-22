@@ -53,5 +53,5 @@
     "cypress": "^12.8.1",
     "@types/styled-components": "^5.1.26"
   },
-  "proxy": "http://localhost:3001"
+  "proxy": "https://express-api-proxy-example.vercel.app"
 }
