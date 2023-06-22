@@ -2,7 +2,7 @@ import { ThemeProvider } from "styled-components";
 import colors from "./palletColor";
 
 const theme = {
-  colors,
+  colors, 
 };
 
 const Theme = ({
