@@ -52,6 +52,5 @@
     "@types/axios": "^0.14.0",
     "cypress": "^12.8.1",
     "@types/styled-components": "^5.1.26"
-  },
-  "proxy": "https://express-api-proxy-example.vercel.app"
+  }
 }
